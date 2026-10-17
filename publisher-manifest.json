@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "20f4cc834c646b8fc9825ca4",
+  "owner": "fkugcv",
+  "repo": "page-1d8eddd2a19690e0fbb1d0c3",
+  "title": "Beryl",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1d8eddd2a19690e0fbb1d0c3",
+      "a": "Beryl",
+      "b": "",
+      "entity": "Beryl",
+      "brand": "Beryl",
+      "separator": "",
+      "path": "index.html",
+      "hash": "910a802c3a105140a94f77693b9577aa839c9391424ca886bb0078d75a24d411",
+      "content": {
+        "keyword1": "Beryl",
+        "keyword2": "",
+        "primary_entity": "Beryl",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Beryl 是一份按期更新的物件笔记。深棕作底。薄荷作标记。本页给出目录、订户档、客户端说明与问答。句子短。读完再决定。",
+          "AI_DESCRIPTION": "Beryl 是一份按期更新的物件笔记。深棕作底。薄荷作标记。本页给出目录、订户档、客户端说明与问答。句子短。读完再决定。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{}\nbody{background:#F4EDE4;color:#2B1A12;font-family:Georgia,\"Palatino Linotype\",\"Songti SC\",\"SimSun\",serif;line-height:1.55;font-size:17px}\na{color:#2F7A66;text-decoration:none}\na:hover{text-decoration:underline}\nmain{display:block}\n.hero{display:grid;grid-template-columns:0.85fr 1.35fr 1fr;grid-template-areas:\"meta title quote\" \"meta dek quote\" \"meta body quote\";gap:1.25rem 2.2rem;min-height:100vh;padding:2.2rem 4vw 3rem;border-bottom:1px solid #C9B8A8;background:#F4EDE4}\n.hero-meta{grid-area:meta;display:flex;flex-direction:column;gap:1.4rem;padding-top:.2rem}\n.kicker{font-family:system-ui,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#6A5346}\n.hero nav{display:flex;flex-direction:column;gap:.55rem;font-family:system-ui,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:14px}\n.hero nav a{border-bottom:1px solid #8FDBC4;padding-bottom:.2rem;width:fit-content;color:#2B1A12}\n.note{font-size:14px;color:#5C463A;max-width:16em}\n.hero-title{grid-area:title;align-self:end}\nh1{font-size:clamp(3.4rem,9vw,7.2rem);line-height:.9;font-weight:600;letter-spacing:-.03em;color:#2B1A12}\n.hero-dek{grid-area:dek;font-size:1.15rem;max-width:22em}\n.hero-body{grid-area:body;font-size:1rem;max-width:28em;color:#4A3226}\n.hero-quote{grid-area:quote;align-self:stretch;background:#2B1A12;color:#D7F5EA;border-radius:32px;box-shadow:0 18px 50px rgba(43,26,18,.18);padding:2.4rem 2rem;display:flex;flex-direction:column;justify-content:flex-end;gap:1.2rem}\n.hero-quote blockquote{font-size:clamp(1.35rem,2.4vw,1.9rem);line-height:1.35}\n.hero-quote .attr{font-family:system-ui,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;font-size:12px;letter-spacing:.16em;color:#8FDBC4}\n.wrap{width:min(920px,92vw);margin:0 auto;padding:3.2rem 0}\nh2{font-size:1.7rem;margin-bottom:1rem;letter-spacing:-.02em}\nh3{font-size:1.15rem;margin:.4rem 0 .35rem}\n.lead{margin-bottom:1.2rem;max-width:38em}\n.catalog{display:grid;grid-template-columns:1.4fr .8fr;gap:1.6rem;align-items:start}\n.piece{background:#FFF9F3;border-radius:28px;box-shadow:0 16px 44px rgba(43,26,18,.1);padding:1.5rem 1.6rem;margin-bottom:1rem}\n.piece p{color:#4A3226;font-size:.98rem}\n.sidebox{background:#2B1A12;color:#E7F8F1;border-radius:28px;box-shadow:0 16px 44px rgba(43,26,18,.12);padding:1.6rem}\n.sidebox p{margin-top:.7rem;color:#CDEDE2}\n.steps{display:flex;flex-direction:column;gap:1rem}\n.step{background:#FFF9F3;border-radius:28px;box-shadow:0 14px 40px rgba(43,26,18,.09);padding:1.3rem 1.5rem}\n.step b{font-family:system-ui,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;color:#2F7A66;display:block;font-size:12px;letter-spacing:.14em;margin-bottom:.35rem}\n.plan{background:#FFF9F3;border-radius:32px;box-shadow:0 18px 48px rgba(43,26,18,.11);padding:1.8rem 1.7rem 1.6rem;margin-bottom:1.2rem}\n.plan.featured{background:#2B1A12;color:#F4EDE4}\n.plan.featured p,.plan.featured li{color:#E4D6CA}\n.badge{display:inline-block;font-family:system-ui,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;font-size:11px;letter-spacing:.14em;background:#8FDBC4;color:#2B1A12;border-radius:999px;padding:.2rem .7rem;margin-bottom:.7rem}\n.price{font-size:1.8rem;margin:.25rem 0 .15rem}\n.year{font-size:.95rem;color:#6A5346;margin-bottom:.8rem}\n.plan.featured .year{color:#8FDBC4}\n.plan ul{list-style:none;margin-top:.4rem}\n.plan li{padding:.35rem 0;border-top:1px solid #E4D5C6;font-size:.98rem}\n.plan.featured li{border-top-color:#4A3226}\n.clients{display:flex;flex-direction:column;gap:1rem}\n.client{background:#FFF9F3;border-radius:28px;box-shadow:0 14px 40px rgba(43,26,18,.09);padding:1.4rem 1.5rem}\n.client h3{font-size:1.05rem}\n.muted{color:#5C463A;font-size:.95rem}\n.faq-list{display:flex;flex-direction:column;gap:.8rem}\ndetails{background:#FFF9F3;border-radius:28px;box-shadow:0 14px 40px rgba(43,26,18,.09);padding:0 1.3rem}\nsummary{cursor:pointer;padding:1.1rem 0;font-weight:600;list-style:none}\nsummary::-webkit-details-marker{display:none}\ndetails p{padding:0 0 1.15rem;color:#4A3226;border-top:1px solid #E4D5C6;padding-top:.8rem}\n.foot{border-top:1px solid #C9B8A8;padding:1.4rem 4vw 2.2rem;font-family:system-ui,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;font-size:13px;color:#6A5346;display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap}\n@media(max-width:860px){\n.hero{grid-template-columns:1fr;grid-template-areas:\"meta\" \"title\" \"dek\" \"body\" \"quote\";min-height:0;padding:1.4rem 5vw 2rem}\n.hero nav{flex-direction:row;flex-wrap:wrap;gap:.4rem .9rem}\nh1{font-size:3.6rem}\n.catalog{grid-template-columns:1fr}\n.wrap{padding:2.2rem 0}\n.foot{padding:1.2rem 5vw 2rem}\n}\n</style><main>\n<section class=\"hero\">\n<div class=\"hero-meta\">\n<p class=\"kicker\">第七期 · 深棕 / 薄荷</p>\n<nav>\n<a href=\"#catalog\">目录</a>\n<a href=\"#how\">使用</a>\n<a href=\"#plans\">订户</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">问答</a>\n</nav>\n<p class=\"note\">先读篇目。再看档位。下载地址本页不写。</p>\n</div>\n<div class=\"hero-title\">\n<h1>Beryl</h1>\n</div>\n<p class=\"hero-dek\">一份按期更新的物件笔记。颜色在前。名字在后。</p>\n<p class=\"hero-body\">本页只做三件事。列出当期篇目。说明订户档。交代阅读入口。没有口号。没有额外身份。</p>\n<aside class=\"hero-quote\">\n<blockquote>先看见切面，再决定要不要收藏。</blockquote>\n<p class=\"attr\">刊首引言</p>\n</aside>\n</section>\n\n<section class=\"wrap\" id=\"catalog\">\n<h2>当期目录</h2>\n<p class=\"lead\">四篇。都短。从器物表面写起。</p>\n<div class=\"catalog\">\n<div>\n<article class=\"piece\">\n<h3>褐釉碗的口沿</h3>\n<p>釉停在唇边。手感比颜色先到。记录一次停顿，不写产地神话。</p>\n</article>\n<article class=\"piece\">\n<h3>薄荷糖纸上的折痕</h3>\n<p>纸会响。折痕是时间留下的线。本篇只追这一条线。</p>\n</article>\n<article class=\"piece\">\n<h3>深夜的木桌纹理</h3>\n<p>灯偏暖。木纹偏干。把桌面当成一页未裁的纸。</p>\n</article>\n<article class=\"piece\">\n<h3>一枚绿柱石的切面笔记</h3>\n<p>刊名来自矿物。本文只谈切面、折射与命名的先后。</p>\n</article>\n</div>\n<aside class=\"sidebox\">\n<h3>阅读顺序</h3>\n<p>从上到下。不必跳。读完一篇就停也可以。</p>\n<p>订户档不改变篇目。只改变能翻到哪一年。</p>\n</aside>\n</div>\n</section>\n\n<section class=\"wrap\" id=\"how\">\n<h2>使用说明</h2>\n<p class=\"lead\">五步。做完第一步就能决定要不要往下。</p>\n<div class=\"steps\">\n<article class=\"step\">\n<b>01</b>\n<h3>打开目录</h3>\n<p>看标题。看自己还想不想读第二句。不想，就离开。</p>\n</article>\n<article class=\"step\">\n<b>02</b>\n<h3>对照订户档</h3>\n<p>单册、长期、编辑室。价格写在卡片上。年付另列一行。</p>\n</article>\n<article class=\"step\">\n<b>03</b>\n<h3>核客户端名称</h3>\n<p>到下方客户端区。只核对名字。本页不给安装包。</p>\n</article>\n<article class=\"step\">\n<b>04</b>\n<h3>从第一篇进入</h3>\n<p>登录后回到目录。不要从中间页开始。顺序是编辑定的。</p>\n</article>\n<article class=\"step\">\n<b>05</b>\n<h3>先查问答</h3>\n<p>问号放在最后一组。仍不清楚，再写信。不要先猜。</p>\n</article>\n</div>\n</section>\n\n<section class=\"wrap\" id=\"plans\">\n<h2>订户档</h2>\n<p class=\"lead\">三档。单列。一张读完再翻下一张。</p>\n<article class=\"plan\">\n<h3>单册</h3>\n<p class=\"price\">¥15 / 月</p>\n<p class=\"year\">按年付 ¥150 / 年</p>\n<ul>\n<li>当期全部篇目</li>\n<li>两席同步阅读</li>\n<li>句段标记</li>\n<li>刊末索引</li>\n</ul>\n</article>\n<article class=\"plan featured\">\n<p class=\"badge\">本期主推</p>\n<h3>长期</h3>\n<p class=\"price\">¥35 / 月</p>\n<p class=\"year\">按年付 ¥350 / 年</p>\n<ul>\n<li>当年完整档案</li>\n<li>五席同步阅读</li>\n<li>边栏批注与导出</li>\n<li>刊次预告</li>\n<li>编辑回信靠前处理</li>\n</ul>\n</article>\n<article class=\"plan\">\n<h3>编辑室</h3>\n<p class=\"price\">¥85 / 月</p>\n<p class=\"year\">按年付 ¥850 / 年</p>\n<ul>\n<li>库内可查篇目</li>\n<li>二十席共用目录</li>\n<li>共同批注</li>\n<li>对口联络人</li>\n<li>可约定专题目录</li>\n</ul>\n</article>\n</section>\n\n<section class=\"wrap\" id=\"clients\">\n<h2>客户端</h2>\n<p class=\"lead\">入口有名字。本页没有包。也没有商店链接。</p>\n<div class=\"clients\">\n<article class=\"client\">\n<h3>桌面阅读器</h3>\n<p class=\"muted\">名称应写作 Beryl。请在你常用的桌面应用来源里核对开发者信息。核对前不要安装。地址留空。</p>\n<p><a href=\"#\">#</a></p>\n</article>\n<article class=\"client\">\n<h3>移动阅读器</h3>\n<p class=\"muted\">名称同样是 Beryl。系统名单本页不列。兼容性不作承诺。以商店页当时显示为准。</p>\n<p><a href=\"#\">#</a></p>\n</article>\n<article class=\"client\">\n<h3>网页栏</h3>\n<p class=\"muted\">把本页加入书签即可。无扩展。无附加组件。不提供下载。</p>\n<p><a href=\"#\">#</a></p>\n</article>\n</div>\n</section>\n\n<section class=\"wrap\" id=\"faq\">\n<h2>常见问题</h2>\n<p class=\"lead\">点开一条。读完再点下一条。</p>\n<div class=\"faq-list\">\n<details>\n<summary>Beryl 是什么？</summary>\n<p>一份按期更新的物件笔记。矿物名只作刊名。不引申成别的服务。</p>\n</details>\n<details>\n<summary>订户档买的是什么？</summary>\n<p>阅读范围与席位。单册看当期。长期看当年。编辑室看库，并共用目录。</p>\n</details>\n<details>\n<summary>为什么没有下载按钮？</summary>\n<p>本页不托管安装包。也不填写未核对的地址。链接因此为 #。</p>\n</details>\n<details>\n<summary>如何开始？</summary>\n<p>先读目录。选定一档。再去客户端区核名称。打开后从第一篇读。</p>\n</details>\n<details>\n<summary>编辑室如何共用？</summary>\n<p>一人建目录。其余人按席位进入。专题目录需另行约定。细节以当期说明为准。</p>\n</details>\n</div>\n</section>\n</main>\n<footer class=\"foot\">\n<span>Beryl · 第七期</span>\n<span>深棕作底。薄荷作标记。</span>\n</footer>",
+          "hash": "5ee6455e149a232c30f116c15f373158b418aca467a3392eaad3778d9d93e649",
+          "seo": {
+            "title": "Beryl｜当期目录、订户档与阅读入口",
+            "keywords": "Beryl,绿柱石,物件笔记,当期目录,订户档,阅读入口,常见问题",
+            "description": "Beryl 是一份按期更新的物件笔记。深棕作底。薄荷作标记。本页给出目录、订户档、客户端说明与问答。句子短。读完再决定。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "7298",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "9 深棕配薄荷",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "1y0870.cn",
+    "host": "p-8cf6abb8ed.1y0870.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "9ae7345ea356d14b63de3832acce5e87b5eb440c2b229ba512cf3d0bc5c612ed",
+    "sitemap.xml": "b762a5e380f2dc24905e5d38aa7fed2976c9f366478f9a34c168e388eb8791a3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5824b9a445f9d637b07729d5b01d0bc02b9c86e99ef62b9f9f44c09d4babd75d",
+    "robots.txt": "bd8a332772449f134bd76a5a7240a84f65d0b37feaa2706d60a0c48a9ba58e64",
+    "2a72516312dc6280c235073dfd1686a6.txt": "692c44f5ec15aaabd9420f8f5863a15f7f81e1e4f06673ab06c80a4b98eb9577"
+  },
+  "revision": "8ccee52163255afa9199656a9cba7863ac6bdb932a806e90170e8aafe563b794"
+}
